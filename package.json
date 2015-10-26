@@ -1,0 +1,20 @@
+{
+  "name": "gulp-sugar-test",
+  "version": "0.0.1",
+  "description": "Example of using gulp-sugar-test",
+  "keywords": [
+    "gulp-sugar",
+    "gulp-sugar-simple"
+  ],
+  "author": "Anders Thøgersen <anders@bladre.dk>",
+
+  "devDependencies": {
+    "gulp-sugar": "=0.2.0",
+    "gulp-sugar-simple": "=0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aklt/gulp-sugar-test.git"
+  },
+  "licanse": "BSD"
+}
